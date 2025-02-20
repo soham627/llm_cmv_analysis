@@ -99,8 +99,8 @@ Interestingly, GPT-4o assigns slightly higher scores to incorrect answers, while
 ---
 
 ## Summary of results
-- PT-4o is significantly better than GPT-3.5 at predicting persuasive arguments (63% vs. 49.8%)  
-- PT-4o provides more persuasive and logically structured explanations  
+- GPT-4o is significantly better than GPT-3.5 at predicting persuasive arguments (63% vs. 49.8%)  
+- GPT-4o provides more persuasive and logically structured explanations  
 - Both models struggle with reasoning in incorrect answers, but GPT-4o is more confident even when wrong  
 
 ---
