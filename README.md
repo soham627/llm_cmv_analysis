@@ -47,7 +47,7 @@ To assess reasoning ability, I used GPT-4o to rate each explanation (1-10) on:
 | **GPT-3.5** | **49.80%** |
 
 - GPT-4o significantly outperforms GPT-3.5 in predicting persuasion.  
-- GPT-3.5 is slightly better than random chance (50%), but struggles in distinguishing persuasive arguments.
+- GPT-3.5 is slightly worse than random chance (50%), and struggles in distinguishing persuasive arguments.
 
 ---
 
